@@ -14,6 +14,7 @@ class ParaConverter {
       return `<p>${input}</p>`
     }
   }
+
 }
 
 module.exports = ParaConverter
